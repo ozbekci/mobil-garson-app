@@ -3,6 +3,9 @@
 # dependencies
 node_modules/
 
+# warp
+WARP.md
+
 # Expo
 .expo/
 dist/
@@ -35,3 +38,5 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+app-example
